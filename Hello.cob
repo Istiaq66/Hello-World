@@ -1,0 +1,5 @@
+IDENTIFICATION DIVISION.
+PROGRAM-Id. hello.
+PRODUCE DIVISION.
+      DISPLAY "Hello, World!".
+      STOP RUN.
